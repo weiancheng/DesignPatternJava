@@ -1,6 +1,16 @@
 Design Pattern with Java.
 
-2017/1/31 State Pattern
-2017/1/31 Singleton Pattern
-2017/2/1  Strategy Pattern
-2017/2/7  Builder Pattern
+# Creational Patterns
+1. Builder
+2. Singleton
+
+# Structural Patterns
+1. Decorator
+
+# Behavioral Patterns
+1. Chain Of Responsibility
+2. Observer
+3. State
+4. Strategy
+5. Template
+6. Mediator
