@@ -6,6 +6,7 @@
 
 ## Structural Patterns
 1. Decorator
+2. Proxy
 
 ## Behavioral Patterns
 1. Chain Of Responsibility
