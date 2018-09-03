@@ -5,8 +5,9 @@
 2. Singleton
 
 ## Structural Patterns
-1. Decorator
-2. Proxy
+1. Adapter
+2. Decorator
+3. Proxy
 
 ## Behavioral Patterns
 1. Chain Of Responsibility
