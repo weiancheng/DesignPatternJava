@@ -8,7 +8,8 @@
 1. Adapter
 2. Composite
 3. Decorator
-4. Proxy
+4. Facade
+5. Proxy
 
 ## Behavioral Patterns
 1. Chain Of Responsibility
