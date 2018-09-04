@@ -6,8 +6,9 @@
 
 ## Structural Patterns
 1. Adapter
-2. Decorator
-3. Proxy
+2. Composite
+3. Decorator
+4. Proxy
 
 ## Behavioral Patterns
 1. Chain Of Responsibility
