@@ -2,7 +2,8 @@
 
 ## Creational Patterns
 1. Builder
-2. Singleton
+2. Factory
+3. Singleton
 
 ## Structural Patterns
 1. Adapter
