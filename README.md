@@ -1,7 +1,7 @@
 # Design Pattern with Java.
 
 ## Creational Patterns
-1. abstract factory
+1. Abstract Factory
 2. Builder
 3. Factory
 4. Simple Factory
