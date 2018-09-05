@@ -4,8 +4,9 @@
 1. Abstract Factory
 2. Builder
 3. Factory
-4. Simple Factory
-5. Singleton
+4. Prototype
+5. Simple Factory
+6. Singleton
 
 ## Structural Patterns
 1. Adapter
