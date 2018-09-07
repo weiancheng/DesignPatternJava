@@ -13,7 +13,8 @@
 2. Composite
 3. Decorator
 4. Facade
-5. Proxy
+5. Flyweight
+6. Proxy
 
 ## Behavioral Patterns
 1. Chain Of Responsibility
