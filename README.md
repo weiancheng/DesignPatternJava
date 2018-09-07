@@ -23,3 +23,4 @@
 4. Strategy
 5. Template
 6. Mediator
+7. Memento
