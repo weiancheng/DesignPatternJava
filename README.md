@@ -19,9 +19,10 @@
 ## Behavioral Patterns
 1. Chain Of Responsibility
 2. Command
-3. Observer
-4. State
-5. Strategy
-6. Template
-7. Mediator
-8. Memento
+3. Iterator
+4. Mediator
+5. Memento
+6. Observer
+7. State
+8. Strategy
+9. Template
