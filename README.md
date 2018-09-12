@@ -17,12 +17,13 @@
 6. Proxy
 
 ## Behavioral Patterns
-1. Chain Of Responsibility
-2. Command
-3. Iterator
-4. Mediator
-5. Memento
-6. Observer
-7. State
-8. Strategy
-9. Template
+1.   Chain Of Responsibility
+2.   Command
+3.   Interpreter
+4.   Iterator
+5.   Mediator
+6.   Memento
+7.   Observer
+8.   State
+9.   Strategy
+10. Template
