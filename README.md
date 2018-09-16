@@ -28,3 +28,4 @@
 8.   State
 9.   Strategy
 10. Template
+11. Visitor
